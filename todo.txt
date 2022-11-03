@@ -1,0 +1,22 @@
+1. Metoda Monte Carlo 
+Algorytm liczenia całki zaimplementować ogarniczajac (a, b) stratarat - całki przy pomocy strzealania losowo w dana funkcje
+
+2. Całka Riemana
+robienie prostokatów pod funkcją.
+
+
+
+i trzeba jakoś porównać co nam wyjdzie
+
+wejściami mają być - funkcja, poczatek, koniec
+
+3. Policzyć pole dowolnej niesymetrycznej figury 
+
+
+
+
+
+Projekt - coś co trzeba zasymulować (grupy dwuosobowe)
+
+dla przykladu skrzyzowanie:
+parametry skrzyzowania typowe dla skrzyzowania: natezenie, kryterium jakieś oceny,
